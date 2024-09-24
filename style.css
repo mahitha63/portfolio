@@ -56,8 +56,8 @@ form {
 
 form label, form input, form textarea, form button {
     margin: 0.5rem 0;
-    width: 80%;
-    height: 100%
+    width: 60%;
+    height: 50%;
 }
 
 form button {
@@ -70,11 +70,11 @@ form button {
 
 body.dark-mode {
     background-color: #121212;
-    color: #c91515;
+    color: #d7d7d7;
 }
 #home.dark-mode {
     background-color: #121212;
-    color: #c91515;
+    color: #e3e3e3;
 }
 
 nav.dark-mode {
