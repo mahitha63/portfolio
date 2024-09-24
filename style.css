@@ -32,7 +32,7 @@ section {
 }
 
 #home {
-    background: #2af298;
+    background: #aa00ff;
     padding: 5rem 2rem;
 }
 
@@ -57,6 +57,7 @@ form {
 form label, form input, form textarea, form button {
     margin: 0.5rem 0;
     width: 80%;
+    height: 100%
 }
 
 form button {
